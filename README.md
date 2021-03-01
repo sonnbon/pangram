@@ -1,4 +1,4 @@
-# Pangram Program
+# Pangram
 
 Connor Williams 2021
 
